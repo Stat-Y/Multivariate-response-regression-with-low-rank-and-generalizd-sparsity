@@ -10,7 +10,7 @@ One can analyze Cancer Cell Line Encyclopedia (CCLE) data by the proposed model.
 
 In the following data analysis example, we use screened version of CCLE data. 
 
-1. [Example_Data_Z_eq_I.Rdata]<https://github.com/Stat-Y/CCLE/blob/main/Example_Code_Z_eq_I.R> : screened CCLE data for proposed model with Z=I case.
+1. [Example_Data_Z_eq_I.Rdata](https://github.com/Stat-Y/CCLE/blob/main/Example_Code_Z_eq_I.R) : screened CCLE data for proposed model with Z=I case.
 2. Example_Data_Z_neq_I.Rdata : screened CCLE data for proposed model with Z!=I case.
 
 ## Functions
