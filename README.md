@@ -15,6 +15,8 @@ In the following data analysis example, we use screened version of CCLE data.
 
 ## Functions
 
+1. [Example_Code_Z_eq_I.R](https://github.com/Stat-Y/Multivariate-response-regression-with-low-rank-and-generalizd-sparsity/blob/main/Example_Code_Z_eq_I.R) : functions for fitting proposed model with Z=I case, which can be also noted as Low Rank and Sparse Multi-Task Learning (LSMTL)
+2. [Example_Code_Z_neq_I.R](https://github.com/Stat-Y/Multivariate-response-regression-with-low-rank-and-generalizd-sparsity/blob/main/Example_Code_Z_neq_I.R) : functions for fitting proposed model with Z!=I case, which can be also noted as Low Rank and Generalized Sparse Multi-Task Learning (LGSMTL)
 
 ## Data Analysis Examples
 
