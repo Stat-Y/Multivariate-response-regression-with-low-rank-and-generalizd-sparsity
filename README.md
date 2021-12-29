@@ -1,6 +1,9 @@
-# Multiple response regression with low-rank andgeneralized sparsity for analysis of CCLE data
+# Multivariate response regression withlow-rank and generalized sparsity
 
 ## Overview
+
+Multiple response regression with low-rank and generalized sparsity is a multi-task learning model which can be used for models assuming various structures for the coefficient matrix, e.g., one can assume low-rank and sparse coeffcient matrix or low-rank and generalized sparse coefficient matrix. With $\ell_1$
+See the main paper for more details.
 
 ## Data
 
