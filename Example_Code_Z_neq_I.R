@@ -240,7 +240,7 @@ CVfit_LGSMTR <- function(filtered_indep,filtered_resp,group,maxgrid,gridlength=5
   colnames(SS_GSLMTR_2) <- drugname[-11]
   row.names(SS_GSLMTR_2) <- as.numeric(gsub("V",0,colnames(filtered_indep)))
   
-  output <- list(rec,SS_SLMTR_2)
+  output <- list(rec,SS_GSLMTR_2)
   names(output) <- c("CV Error", "Estimated Coefficient")
   return(output)
 }
