@@ -22,7 +22,7 @@ In the following data analysis example, we use screened version of CCLE data.
 
 1. [Example_Analysis_Z_eq_I.pdf](https://github.com/Stat-Y/Multivariate-response-regression-with-low-rank-and-generalizd-sparsity/blob/main/Example_Analysis_Z_eq_I.pdf) : Data analysis example with CCLE data for Z=I case.
 
-1. [Example_Analysis_Z_neq_I.pdf](https://github.com/Stat-Y/Multivariate-response-regression-with-low-rank-and-generalizd-sparsity/blob/main/Example_Analysis_Z_eq_I.pdf) : Data analysis example with CCLE data for Z!=I case.
+1. [Example_Analysis_Z_neq_I.pdf](https://github.com/Stat-Y/Multivariate-response-regression-with-low-rank-and-generalizd-sparsity/blob/main/Example_Analysis_Z_neq_I.pdf) : Data analysis example with CCLE data for Z!=I case.
 
 ## Authors
 [Seyoung Park](https://sites.google.com/view/seyoungpark/home) and Youngjin Cho
