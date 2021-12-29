@@ -30,3 +30,5 @@ In the following data analysis example, we use screened version of CCLE data.
 Department of Statistics, Sungkyunkwan University and Department of Statistics, Virginia Tech.
 
 ## Contact
+
+ishspsy@skku.edu and youngjin@vt.edu
